@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class ATMInterface {
     private static Scanner scanner = new Scanner(System.in);
     private static int balance = 1000; // Initial balance
